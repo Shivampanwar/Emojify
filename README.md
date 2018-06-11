@@ -15,4 +15,8 @@ keras  and basic Python libraries. To install emoji, use sudo pip install emoji 
 
 Run Emojify text.ipynb to see results. Main data(csv files) are inside data folder.
 
+## Result
 
+Given some input sentences and their corresponding emojis
+
+![image](https://user-images.githubusercontent.com/12275601/41224119-4ac8c050-6d89-11e8-8ee5-df570e093fc7.png)
